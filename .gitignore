@@ -1,0 +1,27 @@
+# Compiled Java class files
+*.class
+
+# Database
+counterfeit.db
+*.db
+
+# Logs
+*.log
+verification_logs.txt
+
+# JARs
+*.jar
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database backups
+*.db-journal
+*.db-shm
+*.db-wal
